@@ -4,12 +4,12 @@ source "https://rubygems.org"
 
 # gem "rails"
 
-gem "jekyll", "~> 4.3"
+gem "jekyll",
 
-gem "webrick", "~> 1.8"
+gem "webrick",
 
-gem "jekyll-feed", "~> 0.17.0"
+gem "jekyll-feed",
 
-gem "jekyll-coffeescript", "~> 2.0"
+gem "jekyll-coffeescript",
 
 gem "jemoji"
