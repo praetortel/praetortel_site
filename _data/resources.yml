@@ -1,0 +1,54 @@
+- title: Videos
+  subfolderitems:
+  - name: US West ANP Introduction
+    description: A really old, but good high-level video on number portability. Most of it is still relevant to today
+    url: https://www.youtube.com/watch?v=xQr7ZhqJ9U8&t=3s&ab_channel=ConnectionsMuseum
+  - name: Punching down a 110 block
+    description: Nice tutorial on punching down a 110 block
+    url: https://www.youtube.com/watch?v=zEcOF96tuhI&t=377s&ab_channel=DIYTelecom
+  - name: SXS Phil's Guide to Telephone Collecting
+    description: So many princess phones!
+    url: https://www.youtube.com/watch?v=tGnYZRfIc0g&t=537s&ab_channel=sxsphil
+  - name: SXS Phile's Guide to jacks, cords and networks
+    description: A really good introduction to the insides of phones
+    url: https://www.youtube.com/watch?v=N_C0Ww3FctI&t=3s&ab_channel=sxsphil
+  - name: Connections Museum YouTube
+    description: Virtually all their videos are helpful. I've learned a lot from watching Sarah
+    url: https://www.youtube.com/@ConnectionsMuseum
+- title: Modems
+  subfolderitems:
+  - name: Instructions for making a linux dialup server
+    description: How to make a dial-in server. Very basic
+    url: https://dogemicrosystems.ca/wiki/Dial_up_server
+  - name: Mike's PBX Cookbook USR Sportster Info
+    description: Covers the most important programming aspects of the USR Sportster line
+    url: https://pbxbook.com/meridian/hardware/usmodems.html
+  - name: Celeste's Modem Tutorial for Solaris 2.x
+    description: Indispensable guide to getting modems working in Solaris 2.x
+    url: http://www.totalunix.com/SunOS/Modem/celetes_modem.html
+- title: Forums
+  subfolderitems:
+  - name: Classic Rotary Phone Forum
+    description: Great forum, particuarly their classifieds
+    url: http://www.classicrotaryphones.com/forum/
+  - name: Avaya Legacy forums
+    description: Forum for Avaya Merline/Partner/etc
+    url: https://www.tek-tips.com/threadminder.cfm?pid=688&page=2
+- title: Payphones
+  subfolderitems:
+  - name: ATT 1D2 to Asterisk
+    description: How to get a Western Electric/ATT 1D2 to talk to Asterisk
+    url: https://github.com/jcs/payphone
+  - name: Interface board for payphones
+    description: An interface board for various payphones
+    url: https://github.com/hharte/1dcoinctrl?fbclid=IwAR35EOq_J_xLmlYH5cseArWL8qEzyCBm7KQF0PW9jCk7lCasFYv1-vXTln4
+- title: PBXes
+  subfolderitems:
+  - name: PBX Cookbook
+    description: Comprehensive site on various PBXes
+    url: https://pbxbook.com/
+- title: Asterisk
+  subfolderitems:
+  - name: Asterisk - The definitive guide
+    description: Slightly older documentation but stull helpful
+    url: http://www.asteriskdocs.org/en/3rd_Edition/asterisk-book-html-chunk/index.html

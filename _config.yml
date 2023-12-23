@@ -1,0 +1,11 @@
+url: "https://praetor.tel" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+title: "PraetorTEL" # the name of your site, e.g. ACME Corp.
+
+sass:
+  sass_dir: _sass
+
+plugins:
+  - jekyll-coffeescript
+  - jekyll-feed
+  - jemoji

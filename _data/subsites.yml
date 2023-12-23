@@ -1,0 +1,4 @@
+- name: Gopher
+  url: gopher.praetor.tel
+- name: PraetorTEL API
+  url: https://api.praetor.tel

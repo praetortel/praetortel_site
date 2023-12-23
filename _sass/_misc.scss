@@ -1,0 +1,16 @@
+.copy {
+    position: fixed;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.container {
+    overflow:hidden;
+    margin-left: 5px;
+}
+
+.column {
+    width: 33%;
+    float: left;
+}
